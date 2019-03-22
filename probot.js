@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+﻿const Discord = require('discord.js');
 const moment = require("moment");  
 const fs = require("fs");      
 const dateFormat = require('dateformat');
@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("NTU4NDY3NTg1NzQ2OTI3NjI4.D3XQ_w.Hoku9dlo5cXCrf2U_vDM2QrBaWk");  // توكن حقق
+client.login("token Your Bot Here");  // توكن حقق
